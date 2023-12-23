@@ -1,14 +1,12 @@
-### Hi there 👋
+### Hi there 👋, This is Pooja D.
 
-<!--
-**devipooja29/devipooja29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on being the best.
-- 🌱 I’m currently learning data science. 
+- 📚 I'm always learning new stuff, currently I am taking datascience course.
 - 👯 I’m looking to collaborate on data science projects.
-- 📫 How to reach me: piyadinani@gmail.com (Gmail).
+- 🐍 I'm really good with Python and use it to play with data. I enjoy figuring out interesting patterns and stories hidden in numbers.
+- 📊 I also dive into machine learning, where I build smart models that can predict stuff. 
+- 📫 you can reach me at piyadinani@gmail.com (Gmail).
 - 😄 Pronouns: she/her.
 - ⚡ Fun fact: I am Environmental Engineer by education. 
--->
+
